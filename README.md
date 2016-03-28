@@ -1,5 +1,9 @@
 # simple-redux-car
 
+项目运行
+npm install
+npm run watch
+
 > 关于 Redux 的一些学习总结，仅供参考 不足之处欢迎指出 互相学习
 > 学习参考资料来源：[《 Redux 中文文档 》][1] [《 看漫画 学 Redux 》][2]
 > 
